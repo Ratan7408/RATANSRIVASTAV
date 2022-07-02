@@ -1,2 +1,0 @@
-# RATANSRIVASTAV
-Created with CodeSandbox
